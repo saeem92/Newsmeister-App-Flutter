@@ -1,4 +1,4 @@
-# quiz_app
+# Newsmeister App
 
 A new Flutter project.
 
